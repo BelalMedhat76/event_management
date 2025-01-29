@@ -33,7 +33,7 @@ MONGO_URI=your-mongodb-uri
 Start the Backend Server
 
 # Using Nodemon
-dnpm install -g nodemon
+npm install -g nodemon
 nodemon server.js
 
 # Or using Node.js
