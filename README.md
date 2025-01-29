@@ -74,29 +74,3 @@ Contact Page Route
 
 POST /api/contact → Submit a contact form
 
-Deployment
-
-Deploy Backend on Render/Heroku
-
-Push backend code to GitHub
-
-Create a Render/Heroku app
-
-Set environment variables (MONGO_URI, etc.)
-
-Deploy the backend
-
-Deploy Frontend on Vercel
-
-Push frontend code to GitHub
-
-Connect the repository to Vercel
-
-Set NEXT_PUBLIC_API_URL to backend URL
-
-Deploy
-
-License
-
-This project is open-source and available under the MIT License.
-
